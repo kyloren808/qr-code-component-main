@@ -36,14 +36,14 @@ main {
   box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.05);
 }
 .card h1 {
-  margin: 16px auto;
+  margin: 24px auto 16px auto;
   font-size: var(--font-heading);
   font-weight: var(--fw-bold);
   color: var(--color-navy);
   text-align: center;
 }
 .card p {
-  margin: 8px auto;
+  margin: 4px auto;
   font-size: var(--font-body);
   font-weight: var(--fw-normal);
   color: var(--color-grey);
